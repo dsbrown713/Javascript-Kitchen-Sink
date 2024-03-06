@@ -41,6 +41,3 @@
 * If the number is even, display 'The world is nice and even!' in the developer console. Otherwise if the number is odd, display 'The world is an odd place!' in the developer console.
 </code></pre>
 <h1>Submit to Github</h1>
-<p>Commit your changes and push to GitHub.</p>
-<h4>Demo</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vWlkWIs23Pk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
